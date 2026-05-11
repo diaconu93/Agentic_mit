@@ -5,8 +5,8 @@
   "author": {
     "name": "MIT Consulting"
   },
-  "homepage": "https://github.com/mit-devs/agentic-coding-standards",
-  "repository": "https://github.com/mit-devs/agentic-coding-standards",
+  "homepage": "https://github.com/diaconu93/Agentic_mit",
+  "repository": "https://github.com/diaconu93/Agentic_mit",
   "license": "UNLICENSED",
   "keywords": ["mit", "jira", "atlassian", "internal-tools", "private"],
   "mcpServers": "./.mcp.json",

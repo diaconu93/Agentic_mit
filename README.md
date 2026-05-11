@@ -1,4 +1,4 @@
-# agentic-coding-standards
+# Agentic_mit
 
 **Privat. Doar pentru uz intern MIT Consulting.**
 
@@ -13,7 +13,7 @@ Marketplace de plugin-uri Claude Code și convenții de "agentic coding" pentru 
 ## Cum se adaugă acest marketplace în Claude Code
 
 ```
-/plugin marketplace add github://mit-devs/agentic-coding-standards
+/plugin marketplace add github://diaconu93/Agentic_mit
 ```
 
 Apoi instalează plugin-urile dorite:
@@ -25,7 +25,7 @@ Apoi instalează plugin-urile dorite:
 ## Structura
 
 ```
-agentic-coding-standards/
+Agentic_mit/
 ├── .claude-plugin/
 │   └── marketplace.json       # registrul marketplace-ului
 ├── plugins/
@@ -41,4 +41,4 @@ agentic-coding-standards/
 
 ## Cerințe acces
 
-Trebuie să fii member al org-ului GitHub `mit-devs`. Dacă nu ești încă adăugat, scrie pe `#dev-onboarding` în Slack.
+Trebuie să fii collaborator pe repo-ul `diaconu93/Agentic_mit`. Dacă nu ești încă adăugat, scrie owner-ului.

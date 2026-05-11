@@ -16,7 +16,7 @@ Roadmap: vezi secțiunea de mai jos.
 
 ## Cerințe
 
-1. **Acces la repo-ul privat** `mit-devs/agentic-coding-standards` (membership în org-ul GitHub MIT).
+1. **Acces la repo-ul privat** `diaconu93/Agentic_mit` (collaborator pe repo).
 2. **GitHub CLI autentificat** sau cheie SSH configurată — Claude Code clonează repo-ul în spatele tău:
    ```bash
    gh auth login
@@ -26,7 +26,7 @@ Roadmap: vezi secțiunea de mai jos.
 ## Install
 
 ```
-/plugin marketplace add github://mit-devs/agentic-coding-standards
+/plugin marketplace add github://diaconu93/Agentic_mit
 /plugin install mit-dev@mit-devs
 ```
 
@@ -64,8 +64,8 @@ Niciun skill în `0.1.0`. Roadmap-ul scurt:
 
 **`Could not clone repo`** la `/plugin marketplace add`:
 - Verifică `gh auth status` — trebuie să fii logat.
-- Verifică că ești member al org-ului `mit-devs`.
-- Verifică SSH/HTTPS access: `git clone git@github.com:mit-devs/agentic-coding-standards.git /tmp/test && rm -rf /tmp/test`.
+- Verifică că ești collaborator pe repo-ul `diaconu93/Agentic_mit`.
+- Verifică SSH/HTTPS access: `git clone git@github.com:diaconu93/Agentic_mit.git /tmp/test && rm -rf /tmp/test`.
 
 **`OAuth required`** la primul call Jira:
 - E normal prima dată. Completează în browser.
@@ -92,6 +92,6 @@ Skill nou:
 
 ## Filing issues
 
-Bug-uri și feature requests: issues în acest repo (`mit-devs/agentic-coding-standards`).
+Bug-uri și feature requests: issues în acest repo (`diaconu93/Agentic_mit`).
 
 **Probleme de securitate**: NU pe GitHub. Trimite intern pe canalul `#security` în Slack MIT.
