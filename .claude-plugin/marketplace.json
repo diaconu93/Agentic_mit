@@ -1,0 +1,16 @@
+{
+  "name": "mit-devs",
+  "owner": {
+    "name": "MIT Consulting",
+    "url": "https://mitconsulting.com"
+  },
+  "plugins": [
+    {
+      "name": "mit-dev",
+      "source": "./plugins/mit-dev",
+      "description": "MIT Consulting developer toolkit (internal). Jira-only.",
+      "version": "0.1.0",
+      "category": "internal-tools"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "mit-dev",
+  "version": "0.1.0",
+  "description": "MIT Consulting developer toolkit — MCP-uri si skill-uri pentru sistemele interne (Jira). Privat, doar uz intern MIT.",
+  "author": {
+    "name": "MIT Consulting"
+  },
+  "homepage": "https://github.com/mit-devs/agentic-coding-standards",
+  "repository": "https://github.com/mit-devs/agentic-coding-standards",
+  "license": "UNLICENSED",
+  "keywords": ["mit", "jira", "atlassian", "internal-tools", "private"],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/"
+}
